@@ -1,4 +1,6 @@
-# Yes_Bank_Stock_Closing_Price_Prediction.ipynb
+# Yes_Bank_Stock_Closing_Price_Prediction(Regression)
+
+https://colab.research.google.com/drive/1kWDLik-2VzZE79Aat3fY8sJTTvzlpKKK?usp=sharing
 
 ccurately forecasting the closing price of Yes Bank's stock is a critical challenge for investors, market participants, and stakeholders due to the bank's recent tumultuous history. As a prominent private sector bank in India, Yes Bank has faced significant financial distress, marked by a substantial accumulation of bad loans and allegations of fraudulent activities. This has resulted in regulatory intervention by the Reserve Bank of India, creating an environment of uncertainty and complexity surrounding the bank's stock price trajectory.
 
